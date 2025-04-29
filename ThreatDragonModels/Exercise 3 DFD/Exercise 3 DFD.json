@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Exercise 3 DFD",
+    "owner": "Emil",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Jacob Weidel"
+      },
+      {
+        "name": "Birk Lars Bertil Namtvedt Byström"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "STride diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
